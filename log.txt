@@ -1,0 +1,394 @@
+2017-12-07 11:51:31,845 - INFO: logger info message
+2017-12-07 11:51:31,845 - WARNING: logger warning message
+2017-12-07 11:51:31,845 - ERROR: logger error message
+2017-12-07 11:51:31,845 - CRITICAL: logger critical message
+2017-12-07 14:53:29,201 - sky - CRITICAL - 软件已废
+2017-12-07 14:53:29,204 - sky - ERROR - 某些功能不能运行
+2017-12-07 14:53:29,204 - sky - WARNING - 有警告
+2017-12-07 14:53:45,944 - sky - CRITICAL - 软件已废
+2017-12-07 14:53:45,944 - sky - ERROR - 某些功能不能运行
+2017-12-07 14:53:45,945 - sky - WARNING - 有警告
+2017-12-07 14:53:45,945 - sky - INFO - 正常
+2017-12-07 14:54:07,295 - sky - CRITICAL - 软件已废
+2017-12-07 14:54:07,295 - sky - ERROR - 某些功能不能运行
+2017-12-07 14:54:07,295 - sky - WARNING - 有警告
+2017-12-07 14:54:07,296 - sky - INFO - 正常
+2017-12-07 14:54:07,296 - sky - DEBUG - 调试
+2017-12-07 15:05:16,123 - datazbase - WARNING - start to test
+2017-12-07 15:06:04,739 - datazbase - WARNING - start to test
+2017-12-07 15:07:00,934 - datazbase - WARNING - start to test
+2017-12-07 15:07:32,895 - datazbase - WARNING - start to test
+2017-12-07 15:07:32,895 - datazbase - DEBUG - connect to database 
+2017-12-07 15:07:52,652 - datazbase - WARNING - start to test
+2017-12-07 15:07:52,652 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:08:25,237 - datazbase - WARNING - start to test
+2017-12-07 15:08:25,237 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:09:40,418 - datazbase - WARNING - start to test
+2017-12-07 15:09:40,418 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:10:57,943 - datazbase - WARNING - start to test
+2017-12-07 15:10:57,943 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:12:23,171 - datazbase - WARNING - start to test
+2017-12-07 15:12:23,171 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:13:26,713 - datazbase - WARNING - start to test
+2017-12-07 15:13:26,714 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:14:33,302 - datazbase - WARNING - start to test
+2017-12-07 15:14:33,303 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:19:31,212 - datazbase - WARNING - start to test
+2017-12-07 15:19:31,212 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:19:40,315 - datazbase - WARNING - start to test
+2017-12-07 15:19:40,315 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:20:07,051 - datazbase - WARNING - start to test
+2017-12-07 15:20:07,051 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:27:00,078 - datazbase - WARNING - start to test
+2017-12-07 15:27:00,078 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:31:56,404 - datazbase - WARNING - start to test
+2017-12-07 15:31:56,404 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:32:02,871 - datazbase - WARNING - start to test
+2017-12-07 15:32:02,872 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:34:43,903 - datazbase - WARNING - start to test
+2017-12-07 15:34:43,903 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:40:01,844 - datazbase - WARNING - start to test
+2017-12-07 15:40:01,845 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:40:41,698 - datazbase - WARNING - start to test
+2017-12-07 15:40:41,699 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:41:23,538 - datazbase - WARNING - start to test
+2017-12-07 15:41:23,538 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 15:41:23,699 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'skylli' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('skylli', '/etc/user/test', None, None)]
+2017-12-07 15:41:41,563 - datazbase - WARNING - start to test
+2017-12-07 15:41:41,564 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-07 16:16:02,233 - datazbase - WARNING - start to test
+2017-12-07 16:16:02,233 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 11:47:00,193 - datazbase - WARNING - start to test
+2017-12-08 11:47:00,202 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 11:48:33,841 - datazbase - WARNING - start to test
+2017-12-08 11:48:33,841 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 11:49:29,149 - datazbase - WARNING - start to test
+2017-12-08 11:49:29,149 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 11:49:29,262 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky1' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky1', '/etc/user/test', 'test', None)]
+2017-12-08 11:55:45,301 - datazbase - WARNING - start to test
+2017-12-08 11:55:45,301 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 11:55:45,459 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky1' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky1', '/etc/user/test', 'test', None)]
+2017-12-08 11:55:45,459 - datazbase - WARNING - failt in adding file test(sky1)
+2017-12-08 11:56:46,010 - datazbase - WARNING - start to test
+2017-12-08 11:56:46,010 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 11:56:46,183 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky1' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky1', '/etc/user/test', 'test', None)]
+2017-12-08 11:56:46,183 - datazbase - WARNING - failt in adding file test(sky1)
+2017-12-08 11:57:08,430 - datazbase - WARNING - start to test
+2017-12-08 11:57:08,431 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 11:57:08,550 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky1' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky1', '/etc/user/test', 'test', None)]
+2017-12-08 11:57:08,560 - datazbase - WARNING - failt in adding file test(sky1)
+2017-12-08 11:58:25,990 - datazbase - WARNING - start to test
+2017-12-08 11:58:25,990 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 12:01:07,121 - datazbase - WARNING - start to test
+2017-12-08 12:01:07,121 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 12:03:52,228 - datazbase - WARNING - start to test
+2017-12-08 12:03:52,228 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 12:03:52,359 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky3' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky3', '/etc/user/test', 'test', None)]
+2017-12-08 12:03:52,359 - datazbase - WARNING - failt in adding file test(sky3)
+2017-12-08 12:04:03,866 - datazbase - WARNING - start to test
+2017-12-08 12:04:03,866 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:41:02,482 - datazbase - WARNING - start to test
+2017-12-08 13:41:02,482 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:41:02,649 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 13:41:02,650 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 13:43:26,542 - datazbase - WARNING - start to test
+2017-12-08 13:43:26,543 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:43:26,714 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 13:43:26,715 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 13:48:07,654 - datazbase - WARNING - start to test
+2017-12-08 13:48:07,654 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:48:07,789 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 13:48:07,790 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 13:48:25,619 - datazbase - WARNING - start to test
+2017-12-08 13:48:25,619 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:48:25,773 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 13:48:25,773 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 13:48:54,209 - datazbase - WARNING - start to test
+2017-12-08 13:48:54,209 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:50:40,685 - datazbase - WARNING - start to test
+2017-12-08 13:50:40,686 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:52:16,099 - datazbase - WARNING - start to test
+2017-12-08 13:52:16,100 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:52:16,296 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky6' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky6', '/etc/user/test', 'test', None)]
+2017-12-08 13:52:16,296 - datazbase - WARNING - failt in adding file test(sky6)
+2017-12-08 13:52:25,775 - datazbase - WARNING - start to test
+2017-12-08 13:52:25,775 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:52:58,482 - datazbase - WARNING - start to test
+2017-12-08 13:52:58,482 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:52:58,646 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky7' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky7', '/etc/user/test', 'test', None)]
+2017-12-08 13:52:58,646 - datazbase - WARNING - failt in adding file test(sky7)
+2017-12-08 13:53:08,302 - datazbase - WARNING - start to test
+2017-12-08 13:53:08,303 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:57:06,650 - datazbase - WARNING - start to test
+2017-12-08 13:57:06,650 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 13:59:46,550 - datazbase - WARNING - start to test
+2017-12-08 13:59:46,550 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 14:21:31,423 - datazbase - WARNING - start to test
+2017-12-08 14:21:31,423 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 14:35:36,011 - datazbase - WARNING - start to test
+2017-12-08 14:35:36,011 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 14:35:42,611 - datazbase - WARNING - start to test
+2017-12-08 14:35:42,611 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 14:35:47,805 - datazbase - WARNING - start to test
+2017-12-08 14:35:47,805 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:35:10,824 - datazbase - WARNING - start to test
+2017-12-08 16:35:10,824 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:35:37,621 - datazbase - WARNING - start to test
+2017-12-08 16:35:37,621 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:35:37,814 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 16:35:37,815 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 16:36:11,925 - datazbase - WARNING - start to test
+2017-12-08 16:36:11,925 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:36:12,062 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 16:36:12,062 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 16:36:38,549 - datazbase - WARNING - start to test
+2017-12-08 16:36:38,551 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:36:40,565 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 16:36:40,565 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 16:37:28,596 - datazbase - WARNING - start to test
+2017-12-08 16:37:28,597 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:37:28,882 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky4' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky4', '/etc/user/test', 'test', None)]
+2017-12-08 16:37:28,882 - datazbase - WARNING - failt in adding file test(sky4)
+2017-12-08 16:37:39,195 - datazbase - WARNING - start to test
+2017-12-08 16:37:39,197 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:51:05,294 - datazbase - WARNING - start to test
+2017-12-08 16:51:05,306 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:51:06,124 - datazbase - WARNING - file add
+2017-12-08 16:51:06,716 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky5' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky5', '/etc/user/test', 'test', None)]
+2017-12-08 16:51:06,716 - datazbase - WARNING - failt in adding file test(sky5)
+2017-12-08 16:53:54,173 - datazbase - WARNING - start to test
+2017-12-08 16:53:54,174 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:53:54,275 - datazbase - WARNING - file add
+2017-12-08 16:53:54,339 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky5' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky5', '/etc/user/test', 'test', None)]
+2017-12-08 16:53:54,340 - datazbase - WARNING - failt in adding file test(sky5)
+2017-12-08 16:57:45,186 - datazbase - WARNING - start to test
+2017-12-08 16:57:45,186 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:57:45,290 - datazbase - WARNING - file add
+2017-12-08 16:58:22,709 - datazbase - WARNING - start to test
+2017-12-08 16:58:22,709 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:58:22,806 - datazbase - WARNING - file add
+2017-12-08 16:58:22,874 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky7' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky7', '/etc/user/test', 'test', None)]
+2017-12-08 16:58:22,875 - datazbase - WARNING - failt in adding file test(sky7)
+2017-12-08 16:58:46,890 - datazbase - WARNING - start to test
+2017-12-08 16:58:46,891 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:58:46,998 - datazbase - WARNING - file add
+2017-12-08 16:58:47,067 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky7' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky7', '/etc/user/test', 'test', None)]
+2017-12-08 16:58:47,068 - datazbase - WARNING - failt in adding file test(sky7)
+2017-12-08 16:59:02,111 - datazbase - WARNING - start to test
+2017-12-08 16:59:02,111 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:59:02,209 - datazbase - WARNING - file add
+2017-12-08 16:59:02,239 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky7' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky7', '/etc/user/test', 'test', None)]
+2017-12-08 16:59:02,239 - datazbase - WARNING - failt in adding file test(sky7)
+2017-12-08 16:59:09,082 - datazbase - WARNING - start to test
+2017-12-08 16:59:09,082 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 16:59:09,183 - datazbase - WARNING - file add
+2017-12-08 16:59:09,288 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky7' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky7', '/etc/user/test', 'test', None)]
+2017-12-08 16:59:09,289 - datazbase - WARNING - failt in adding file test(sky7)
+2017-12-08 17:00:13,405 - datazbase - WARNING - start to test
+2017-12-08 17:00:13,405 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 17:00:13,507 - datazbase - WARNING - file add
+2017-12-08 17:00:50,886 - datazbase - WARNING - start to test
+2017-12-08 17:00:50,886 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 17:00:50,989 - datazbase - WARNING - file add
+2017-12-08 17:00:51,010 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky10' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky10', '/etc/user/test', 'test', None)]
+2017-12-08 17:00:51,011 - datazbase - WARNING - failt in adding file test(sky10)
+2017-12-08 17:00:51,012 - datazbase - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 17:01:25,085 - datazbase - WARNING - start to test
+2017-12-08 17:01:25,086 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 17:01:25,185 - datazbase - WARNING - file add
+2017-12-08 17:01:25,186 - datazbase - DEBUG - session add
+2017-12-08 17:01:25,187 - datazbase - DEBUG - id None
+2017-12-08 17:01:25,261 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky10' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky10', '/etc/user/test', 'test', None)]
+2017-12-08 17:01:25,261 - datazbase - DEBUG - id None
+2017-12-08 17:01:25,261 - datazbase - WARNING - failt in adding file test(sky10)
+2017-12-08 17:01:25,262 - datazbase - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 17:02:16,451 - datazbase - WARNING - start to test
+2017-12-08 17:02:16,451 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 17:02:16,550 - datazbase - WARNING - file add
+2017-12-08 17:02:16,550 - datazbase - DEBUG - session add
+2017-12-08 17:02:16,551 - datazbase - DEBUG - id None
+2017-12-08 17:02:16,632 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky10' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky10', '/etc/user/test', 'test', None)]
+2017-12-08 17:02:16,633 - datazbase - DEBUG - id None
+2017-12-08 17:02:16,633 - datazbase - WARNING - failt in adding file test(sky10)
+2017-12-08 17:02:16,634 - datazbase - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 17:02:16,634 - datazbase - DEBUG - find --> sky
+2017-12-08 17:02:16,635 - datazbase - DEBUG - address = ('/etc/user/test',)
+2017-12-08 17:08:00,600 - datazbase - WARNING - start to test
+2017-12-08 17:08:00,601 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 17:08:00,708 - datazbase - WARNING - file add
+2017-12-08 17:08:00,709 - datazbase - DEBUG - session add
+2017-12-08 17:08:00,710 - datazbase - DEBUG - id None
+2017-12-08 17:08:00,773 - datazbase - ERROR - (_mysql_exceptions.IntegrityError) (1062, "Duplicate entry 'sky10' for key 'idex'") [SQL: u'INSERT INTO file_map (idex, address, name, description) VALUES (%s, %s, %s, %s)'] [parameters: ('sky10', '/tmp', 'test', None)]
+2017-12-08 17:08:00,773 - datazbase - DEBUG - id None
+2017-12-08 17:08:00,773 - datazbase - WARNING - failt in adding file test(sky10)
+2017-12-08 17:08:00,775 - datazbase - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 17:08:00,775 - datazbase - DEBUG - find --> sky
+2017-12-08 17:08:00,776 - datazbase - DEBUG - address = ('/etc/user/test',)
+2017-12-08 17:08:09,645 - datazbase - WARNING - start to test
+2017-12-08 17:08:09,645 - datazbase - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 17:08:09,754 - datazbase - WARNING - file add
+2017-12-08 17:08:09,840 - datazbase - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 17:08:09,841 - datazbase - DEBUG - find --> sky
+2017-12-08 17:08:09,842 - datazbase - DEBUG - address = ('/etc/user/test',)
+2017-12-08 19:01:32,262 - __main__ - CRITICAL - 软件已废
+2017-12-08 19:01:32,262 - __main__ - ERROR - 某些功能不能运行
+2017-12-08 19:01:32,262 - __main__ - WARNING - 有警告
+2017-12-08 19:01:32,262 - __main__ - INFO - 正常
+2017-12-08 19:01:32,262 - __main__ - DEBUG - 调试
+2017-12-08 19:02:17,333 - logger - WARNING - start to test
+2017-12-08 19:02:17,333 - logger - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:02:17,452 - logger - WARNING - file add
+2017-12-08 19:02:17,599 - logger - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 19:02:17,599 - logger - DEBUG - find --> sky
+2017-12-08 19:02:17,601 - logger - DEBUG - address = ('/etc/user/test',)
+2017-12-08 19:02:32,950 - logger - WARNING - start to test
+2017-12-08 19:02:32,950 - logger - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:02:33,038 - logger - WARNING - file add
+2017-12-08 19:02:33,120 - logger - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 19:02:33,120 - logger - DEBUG - find --> sky
+2017-12-08 19:02:33,123 - logger - DEBUG - address = ('/etc/user/test',)
+2017-12-08 19:07:14,740 - __main__ - CRITICAL - 软件已废
+2017-12-08 19:07:14,740 - __main__ - ERROR - 某些功能不能运行
+2017-12-08 19:07:14,741 - __main__ - WARNING - 有警告
+2017-12-08 19:07:14,741 - __main__ - INFO - 正常
+2017-12-08 19:07:14,741 - __main__ - DEBUG - 调试
+2017-12-08 19:07:31,609 - __main__ - CRITICAL - 软件已废
+2017-12-08 19:07:31,610 - __main__ - ERROR - 某些功能不能运行
+2017-12-08 19:07:31,610 - __main__ - WARNING - 有警告
+2017-12-08 19:07:31,610 - __main__ - INFO - 正常
+2017-12-08 19:07:31,610 - __main__ - DEBUG - 调试
+2017-12-08 19:07:53,926 - __main__ - WARNING - start to test
+2017-12-08 19:07:53,927 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:07:54,017 - __main__ - WARNING - file add
+2017-12-08 19:07:54,069 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 19:07:54,070 - __main__ - DEBUG - find --> sky
+2017-12-08 19:07:54,071 - __main__ - DEBUG - address = ('/etc/user/test',)
+2017-12-08 19:08:35,740 - __main__ - WARNING - start to test
+2017-12-08 19:08:35,741 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:08:35,829 - __main__ - WARNING - file add
+2017-12-08 19:08:35,918 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 19:08:35,918 - __main__ - DEBUG - find --> sky
+2017-12-08 19:08:35,919 - __main__ - DEBUG - address = ('/etc/user/test',)
+2017-12-08 19:09:36,544 - __main__ - WARNING - start to test
+2017-12-08 19:09:36,545 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:09:36,631 - __main__ - WARNING - file add
+2017-12-08 19:09:36,631 - __main__ - DEBUG - in file add
+2017-12-08 19:09:36,720 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky10',), ('sky2',), ('sky3',), ('sky4',), ('sky5',), ('sky7',), ('sky8',)]
+2017-12-08 19:09:36,720 - __main__ - DEBUG - find --> sky
+2017-12-08 19:09:36,721 - __main__ - DEBUG - address = ('/etc/user/test',)
+2017-12-08 19:18:38,871 - __main__ - DEBUG - new filename is 1512731918_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1
+2017-12-08 19:18:38,872 - __main__ - DEBUG - save file to 1512731918_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1
+2017-12-08 19:23:13,849 - __main__ - DEBUG - old file name 1.jpg
+2017-12-08 19:23:13,849 - __main__ - DEBUG - new filename is 1512732193_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1
+2017-12-08 19:23:13,849 - __main__ - DEBUG - save file to 1512732193_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1
+2017-12-08 19:31:56,902 - __main__ - DEBUG - new filename is 1512732716_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1jpg
+2017-12-08 19:31:56,902 - __main__ - DEBUG - save file to 1512732716_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1jpg
+2017-12-08 19:32:32,292 - __main__ - DEBUG - new filename is 1512732752_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 19:32:32,293 - __main__ - DEBUG - save file to 1512732752_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 19:32:35,735 - __main__ - WARNING - start to test
+2017-12-08 19:32:35,731 - __main__ - WARNING - start to test
+2017-12-08 19:33:41,862 - __main__ - DEBUG - new filename is 1512732821_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 19:33:41,862 - __main__ - DEBUG - save file to 1512732821_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 19:41:20,631 - __main__ - DEBUG - new filename is 1512733280_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 19:41:20,632 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:41:20,737 - __main__ - WARNING - file add
+2017-12-08 19:42:19,438 - __main__ - WARNING - start to test
+2017-12-08 19:42:19,445 - __main__ - WARNING - start to test
+2017-12-08 19:45:11,638 - __main__ - WARNING - start to test
+2017-12-08 19:45:11,644 - __main__ - WARNING - start to test
+2017-12-08 19:48:41,559 - __main__ - DEBUG - new filename is 1512733721_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 19:48:41,560 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:48:41,677 - __main__ - WARNING - file add
+2017-12-08 19:53:20,786 - __main__ - WARNING - start to test
+2017-12-08 19:53:20,792 - __main__ - WARNING - start to test
+2017-12-08 19:55:37,115 - __main__ - DEBUG - new filename is 1512734137_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 19:55:37,117 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:55:37,234 - __main__ - WARNING - file add
+2017-12-08 19:55:37,234 - database - DEBUG - session add
+2017-12-08 19:55:37,236 - database - DEBUG - id None
+2017-12-08 19:55:37,309 - database - DEBUG - id 3
+2017-12-08 19:55:37,310 - database - DEBUG - session  add refer file type
+2017-12-08 19:55:37,327 - database - DEBUG - session add  refer file type 1
+2017-12-08 19:55:37,347 - database - DEBUG - session add  refer address 
+2017-12-08 19:55:37,351 - database - DEBUG - address id 2 
+2017-12-08 19:56:27,381 - __main__ - DEBUG - new filename is 1512734187_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 19:56:27,382 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:56:27,471 - __main__ - WARNING - file add
+2017-12-08 19:56:27,472 - database - DEBUG - session add
+2017-12-08 19:56:27,473 - database - DEBUG - id None
+2017-12-08 19:56:27,575 - database - DEBUG - id 4
+2017-12-08 19:56:27,575 - database - DEBUG - session  add refer file type
+2017-12-08 19:56:27,577 - database - DEBUG - session add  refer file type 1
+2017-12-08 19:56:27,598 - database - DEBUG - session add  refer address 
+2017-12-08 19:56:27,605 - database - DEBUG - address id 2 
+2017-12-08 19:57:55,408 - __main__ - DEBUG - new filename is 1512734275_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 19:57:55,409 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:57:55,500 - __main__ - WARNING - file add
+2017-12-08 19:57:55,500 - database - DEBUG - session add
+2017-12-08 19:57:55,502 - database - DEBUG - id None
+2017-12-08 19:57:55,594 - database - DEBUG - id 3
+2017-12-08 19:57:55,596 - database - DEBUG - session  add refer file type
+2017-12-08 19:57:55,599 - database - DEBUG - session add  refer file type 1
+2017-12-08 19:57:55,603 - database - DEBUG - session add  refer address 
+2017-12-08 19:57:55,606 - database - DEBUG - address id 2 
+2017-12-08 19:58:43,588 - __main__ - DEBUG - new filename is 1512734323_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 19:58:43,601 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:58:43,691 - __main__ - WARNING - file add
+2017-12-08 19:58:43,691 - database - DEBUG - session add
+2017-12-08 19:58:43,692 - database - DEBUG - id None
+2017-12-08 19:58:43,786 - database - DEBUG - id 3
+2017-12-08 19:58:43,786 - database - DEBUG - session  add refer file type
+2017-12-08 19:58:43,788 - database - DEBUG - session add  refer file type 1
+2017-12-08 19:58:43,821 - database - DEBUG - session add  refer address 
+2017-12-08 19:58:43,825 - database - DEBUG - address id 2 
+2017-12-08 19:58:52,114 - __main__ - DEBUG - new filename is 1512734332_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 19:58:52,114 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 19:58:52,116 - __main__ - WARNING - file add
+2017-12-08 19:58:52,116 - database - DEBUG - session add
+2017-12-08 19:58:52,116 - database - DEBUG - id None
+2017-12-08 19:58:52,154 - database - DEBUG - id 3
+2017-12-08 19:58:52,154 - database - DEBUG - session  add refer file type
+2017-12-08 19:58:52,156 - database - DEBUG - session add  refer file type 1
+2017-12-08 19:58:52,159 - database - DEBUG - session add  refer address 
+2017-12-08 19:58:52,166 - database - DEBUG - address id 2 
+2017-12-08 20:10:50,568 - __main__ - WARNING - start to test
+2017-12-08 20:10:50,573 - __main__ - WARNING - start to test
+2017-12-08 20:11:25,742 - __main__ - DEBUG - new filename is 1512735085_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 20:11:25,743 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 20:11:25,843 - __main__ - INFO - file testin save to /home/derry/github/python/FileManage/store_file/1512735085_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 20:12:02,005 - __main__ - DEBUG - new filename is 1512735122_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 20:12:02,006 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 20:12:02,007 - __main__ - INFO - file 123234 save to /home/derry/github/python/FileManage/store_file/1512735122_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-08 20:15:15,943 - __main__ - DEBUG - new filename is 1512735315_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:15:15,944 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 20:15:15,944 - __main__ - INFO - file 11111111 save to /home/derry/github/python/FileManage/store_file/1512735315_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:16:57,070 - __main__ - DEBUG - new filename is 1512735417_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:16:57,072 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 20:16:57,196 - __main__ - INFO - file 222 save to /home/derry/github/python/FileManage/store_file/1512735417_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:16:57,196 - database - INFO - file 222 address  /home/derry/github/python/FileManage/store_file/1512735417_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:18:44,235 - __main__ - DEBUG - new filename is 1512735524_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:18:44,236 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 20:18:44,336 - __main__ - INFO - file 1122 save to /home/derry/github/python/FileManage/store_file/1512735524_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:18:44,337 - database - INFO - file 1122 address  /home/derry/github/python/FileManage/store_file/1512735524_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:19:25,483 - __main__ - DEBUG - new filename is 1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:19:25,485 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 20:19:25,582 - __main__ - INFO - file 123 save to /home/derry/github/python/FileManage/store_file/1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:19:25,583 - database - INFO - file 123 address  /home/derry/github/python/FileManage/store_file/1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:19:25,583 - database - DEBUG - session add
+2017-12-08 20:19:25,584 - database - DEBUG - id None
+2017-12-08 20:19:25,662 - database - DEBUG - id 3
+2017-12-08 20:19:25,662 - database - DEBUG - session  add refer file type
+2017-12-08 20:19:25,663 - database - DEBUG - session add  refer file type 1
+2017-12-08 20:19:25,674 - database - DEBUG - session add  refer address 
+2017-12-08 20:19:25,677 - database - DEBUG - address id 2 
+2017-12-08 20:20:45,707 - __main__ - DEBUG - new filename is 1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:20:45,708 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-08 20:20:45,807 - __main__ - INFO - file 1234 save to /1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:20:45,808 - database - INFO - file 1234 address  /1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-08 20:20:45,808 - database - DEBUG - session add
+2017-12-08 20:20:45,810 - database - DEBUG - id None
+2017-12-08 20:20:45,935 - database - DEBUG - id 4
+2017-12-08 20:20:45,936 - database - DEBUG - session  add refer file type
+2017-12-08 20:20:45,960 - database - DEBUG - session add  refer file type 1
+2017-12-08 20:20:45,994 - database - DEBUG - session add  refer address 
+2017-12-08 20:20:46,011 - database - DEBUG - address id 2 

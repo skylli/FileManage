@@ -1,0 +1,13 @@
+2017-12-07 11:43:33,340 - root - WARNING - logger warning message
+2017-12-07 11:43:33,340 - root - ERROR - logger error message
+2017-12-07 11:43:33,340 - root - CRITICAL - logger critical message
+WARNING - 2017-12-07 11:44:14,259 - root - logger warning message
+ERROR - 2017-12-07 11:44:14,259 - root - logger error message
+CRITICAL - 2017-12-07 11:44:14,259 - root - logger critical message
+2017-12-07 11:44:31,620 - root - WARNING - logger warning message
+2017-12-07 11:44:31,620 - root - ERROR - logger error message
+2017-12-07 11:44:31,620 - root - CRITICAL - logger critical message
+2017-12-07 11:51:31,845 - root - INFO - logger info message
+2017-12-07 11:51:31,845 - root - WARNING - logger warning message
+2017-12-07 11:51:31,845 - root - ERROR - logger error message
+2017-12-07 11:51:31,845 - root - CRITICAL - logger critical message
