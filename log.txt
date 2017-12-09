@@ -392,3 +392,315 @@
 2017-12-08 20:20:45,960 - database - DEBUG - session add  refer file type 1
 2017-12-08 20:20:45,994 - database - DEBUG - session add  refer address 
 2017-12-08 20:20:46,011 - database - DEBUG - address id 2 
+2017-12-09 08:40:30,334 - __main__ - WARNING - start to test
+2017-12-09 08:40:30,358 - __main__ - WARNING - start to test
+2017-12-09 11:11:33,146 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 11:12:40,151 - __main__ - WARNING - start to test
+2017-12-09 11:12:40,151 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 11:12:40,245 - __main__ - WARNING - file add
+2017-12-09 11:12:40,245 - __main__ - INFO - file micheal address  None
+2017-12-09 11:12:40,389 - __main__ - DEBUG - find -> []
+2017-12-09 11:12:55,701 - __main__ - WARNING - start to test
+2017-12-09 11:12:55,701 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 11:12:55,795 - __main__ - WARNING - file add
+2017-12-09 11:12:55,795 - __main__ - INFO - file sky address  None
+2017-12-09 11:12:55,912 - __main__ - DEBUG - find -> []
+2017-12-09 11:13:39,840 - __main__ - WARNING - start to test
+2017-12-09 11:13:39,840 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 11:13:39,930 - __main__ - WARNING - file add
+2017-12-09 11:13:39,931 - __main__ - INFO - file sky address  /tmp
+2017-12-09 11:13:39,931 - __main__ - DEBUG - session add
+2017-12-09 11:13:39,932 - __main__ - DEBUG - id None
+2017-12-09 11:13:40,047 - __main__ - DEBUG - id 5
+2017-12-09 11:13:40,048 - __main__ - DEBUG - session  add refer file type
+2017-12-09 11:13:40,051 - __main__ - DEBUG - session add  refer file type 1
+2017-12-09 11:13:40,065 - __main__ - DEBUG - session add  refer address 
+2017-12-09 11:13:40,068 - __main__ - DEBUG - address id 2 
+2017-12-09 11:13:40,084 - __main__ - DEBUG - find -> [('sky',)]
+2017-12-09 11:13:40,085 - __main__ - DEBUG - find --> sky
+2017-12-09 11:13:40,085 - __main__ - DEBUG - address = ('/tmp',)
+2017-12-09 11:13:52,519 - __main__ - WARNING - start to test
+2017-12-09 11:13:52,519 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 11:13:52,608 - __main__ - WARNING - file add
+2017-12-09 11:13:52,608 - __main__ - INFO - file sky1 address  /tmp
+2017-12-09 11:13:52,609 - __main__ - DEBUG - session add
+2017-12-09 11:13:52,610 - __main__ - DEBUG - id None
+2017-12-09 11:13:52,657 - __main__ - DEBUG - id 6
+2017-12-09 11:13:52,658 - __main__ - DEBUG - session  add refer file type
+2017-12-09 11:13:52,680 - __main__ - DEBUG - session add  refer file type 1
+2017-12-09 11:13:52,713 - __main__ - DEBUG - session add  refer address 
+2017-12-09 11:13:52,721 - __main__ - DEBUG - address id 2 
+2017-12-09 11:13:52,726 - __main__ - DEBUG - find -> [('sky',), ('sky1',)]
+2017-12-09 11:13:52,727 - __main__ - DEBUG - find --> sky
+2017-12-09 11:13:52,738 - __main__ - DEBUG - address = ('/tmp',)
+2017-12-09 11:13:59,830 - __main__ - WARNING - start to test
+2017-12-09 11:13:59,830 - __main__ - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 11:13:59,918 - __main__ - WARNING - file add
+2017-12-09 11:13:59,918 - __main__ - INFO - file sky2 address  /tmp
+2017-12-09 11:13:59,918 - __main__ - DEBUG - session add
+2017-12-09 11:13:59,920 - __main__ - DEBUG - id None
+2017-12-09 11:14:00,034 - __main__ - DEBUG - id 7
+2017-12-09 11:14:00,035 - __main__ - DEBUG - session  add refer file type
+2017-12-09 11:14:00,036 - __main__ - DEBUG - session add  refer file type 1
+2017-12-09 11:14:00,041 - __main__ - DEBUG - session add  refer address 
+2017-12-09 11:14:00,045 - __main__ - DEBUG - address id 2 
+2017-12-09 11:14:00,050 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 11:14:00,050 - __main__ - DEBUG - find --> sky
+2017-12-09 11:14:00,051 - __main__ - DEBUG - address = ('/tmp',)
+2017-12-09 11:15:55,102 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 11:26:42,212 - __main__ - WARNING - start to test
+2017-12-09 11:26:42,220 - __main__ - WARNING - start to test
+2017-12-09 11:42:17,273 - __main__ - WARNING - start to test
+2017-12-09 11:42:17,279 - __main__ - WARNING - start to test
+2017-12-09 11:52:22,974 - __main__ - WARNING - start to test
+2017-12-09 11:52:22,980 - __main__ - WARNING - start to test
+2017-12-09 11:52:35,828 - __main__ - WARNING - start to test
+2017-12-09 11:52:35,832 - __main__ - WARNING - start to test
+2017-12-09 11:55:25,544 - __main__ - WARNING - start to test
+2017-12-09 11:55:25,548 - __main__ - WARNING - start to test
+2017-12-09 12:03:40,151 - __main__ - WARNING - start to test
+2017-12-09 12:03:40,160 - __main__ - WARNING - start to test
+2017-12-09 13:45:56,802 - __main__ - WARNING - start to test
+2017-12-09 13:45:56,804 - __main__ - WARNING - start to test
+2017-12-09 13:48:26,676 - __main__ - WARNING - start to test
+2017-12-09 13:48:26,684 - __main__ - WARNING - start to test
+2017-12-09 13:50:36,387 - __main__ - WARNING - start to test
+2017-12-09 13:50:36,392 - __main__ - WARNING - start to test
+2017-12-09 13:52:50,159 - __main__ - WARNING - start to test
+2017-12-09 13:52:50,165 - __main__ - WARNING - start to test
+2017-12-09 13:54:27,439 - __main__ - DEBUG - new filename is 1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png
+2017-12-09 13:54:27,456 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 13:54:28,208 - __main__ - INFO - file  save to /1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png
+2017-12-09 13:54:28,208 - database - INFO - file  address  /1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png
+2017-12-09 13:54:28,208 - database - DEBUG - session add
+2017-12-09 13:54:28,210 - database - DEBUG - id None
+2017-12-09 13:54:28,498 - database - DEBUG - id 8
+2017-12-09 13:54:28,499 - database - DEBUG - session  add refer file type
+2017-12-09 13:54:28,521 - database - DEBUG - session add  refer file type 1
+2017-12-09 13:54:28,546 - database - DEBUG - session add  refer address 
+2017-12-09 13:54:28,550 - database - DEBUG - address id 2 
+2017-12-09 13:57:26,167 - __main__ - WARNING - start to test
+2017-12-09 13:57:26,172 - __main__ - WARNING - start to test
+2017-12-09 13:58:38,809 - __main__ - DEBUG - in put key sky
+2017-12-09 13:58:46,727 - __main__ - DEBUG - in put key sky
+2017-12-09 13:58:52,165 - __main__ - DEBUG - in put key MICHEA'
+2017-12-09 13:59:41,549 - __main__ - DEBUG - in put key SKY
+2017-12-09 14:00:48,904 - __main__ - DEBUG - in put key SKY
+2017-12-09 14:00:48,905 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:00:52,741 - __main__ - DEBUG - in put key sky
+2017-12-09 14:00:52,742 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:01:44,915 - __main__ - DEBUG - in put key sky
+2017-12-09 14:01:44,933 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:01:45,067 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:03:31,401 - __main__ - WARNING - start to test
+2017-12-09 14:03:31,407 - __main__ - WARNING - start to test
+2017-12-09 14:03:36,500 - __main__ - DEBUG - in put key sky
+2017-12-09 14:03:36,500 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:03:36,625 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:03:43,284 - __main__ - DEBUG - in put key micheal
+2017-12-09 14:03:43,284 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:03:43,389 - __main__ - DEBUG - find -> []
+2017-12-09 14:04:16,572 - __main__ - DEBUG - in put key micheal
+2017-12-09 14:04:16,573 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:04:16,705 - __main__ - DEBUG - find -> []
+2017-12-09 14:04:19,668 - __main__ - DEBUG - in put key sky
+2017-12-09 14:04:19,668 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:04:19,795 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:04:25,036 - __main__ - DEBUG - in put key sky1
+2017-12-09 14:04:25,037 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:04:25,251 - __main__ - DEBUG - find -> [('sky1',)]
+2017-12-09 14:04:29,724 - __main__ - DEBUG - in put key s
+2017-12-09 14:04:29,724 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:04:29,862 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:05:02,459 - __main__ - WARNING - start to test
+2017-12-09 14:05:02,468 - __main__ - WARNING - start to test
+2017-12-09 14:05:12,335 - __main__ - DEBUG - in put key s
+2017-12-09 14:05:12,336 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:05:12,478 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:05:36,043 - __main__ - WARNING - start to test
+2017-12-09 14:05:36,046 - __main__ - WARNING - start to test
+2017-12-09 14:05:44,184 - __main__ - DEBUG - in put key sky
+2017-12-09 14:05:44,184 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:05:44,311 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:06:42,928 - __main__ - WARNING - start to test
+2017-12-09 14:06:42,933 - __main__ - WARNING - start to test
+2017-12-09 14:06:55,417 - __main__ - DEBUG - in put key sky
+2017-12-09 14:06:55,418 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:06:55,574 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:06:55,575 - __main__ - DEBUG - find -> ('sky',)
+2017-12-09 14:08:12,243 - __main__ - DEBUG - in put key 
+2017-12-09 14:08:12,244 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:08:12,281 - __main__ - DEBUG - find -> [('',), ('001',), ('002',), ('123',), ('1234',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:08:12,281 - __main__ - DEBUG - find -> ('',)
+2017-12-09 14:14:31,404 - __main__ - DEBUG - new filename is 1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 14:14:31,406 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:14:31,532 - __main__ - INFO - file .jpg save to /1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 14:14:31,533 - database - INFO - file .jpg address  /1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 14:14:31,533 - database - DEBUG - session add
+2017-12-09 14:14:31,534 - database - DEBUG - id None
+2017-12-09 14:14:31,593 - database - DEBUG - id 9
+2017-12-09 14:14:31,594 - database - DEBUG - session  add refer file type
+2017-12-09 14:14:31,595 - database - DEBUG - session add  refer file type 1
+2017-12-09 14:14:31,599 - database - DEBUG - session add  refer address 
+2017-12-09 14:14:31,611 - database - DEBUG - address id 2 
+2017-12-09 14:14:34,138 - __main__ - DEBUG - in put key 
+2017-12-09 14:14:34,138 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:14:34,176 - __main__ - DEBUG - find -> [('',), ('.jpg',), ('001',), ('002',), ('123',), ('1234',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:14:34,176 - __main__ - DEBUG - find -> ('',)
+2017-12-09 14:15:29,978 - __main__ - DEBUG - new filename is 1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 14:15:29,980 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:15:29,981 - __main__ - INFO - file 123picture.jpg save to /1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 14:15:29,981 - database - INFO - file 123picture.jpg address  /1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 14:15:29,982 - database - DEBUG - session add
+2017-12-09 14:15:29,982 - database - DEBUG - id None
+2017-12-09 14:15:30,007 - database - DEBUG - id 10
+2017-12-09 14:15:30,008 - database - DEBUG - session  add refer file type
+2017-12-09 14:15:30,009 - database - DEBUG - session add  refer file type 1
+2017-12-09 14:15:30,042 - database - DEBUG - session add  refer address 
+2017-12-09 14:15:30,046 - database - DEBUG - address id 2 
+2017-12-09 14:15:33,627 - __main__ - DEBUG - in put key 
+2017-12-09 14:15:33,628 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:15:33,686 - __main__ - DEBUG - find -> [('',), ('.jpg',), ('001',), ('002',), ('123',), ('1234',), ('123picture.jpg',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:15:33,686 - __main__ - DEBUG - find -> ('',)
+2017-12-09 14:15:44,802 - __main__ - DEBUG - in put key jpg
+2017-12-09 14:15:44,802 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:15:44,833 - __main__ - DEBUG - find -> [('.jpg',), ('123picture.jpg',)]
+2017-12-09 14:15:44,836 - __main__ - DEBUG - find -> ('.jpg',)
+2017-12-09 14:15:51,130 - __main__ - DEBUG - in put key sky
+2017-12-09 14:15:51,130 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:15:51,197 - __main__ - DEBUG - find -> [('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:15:51,198 - __main__ - DEBUG - find -> ('sky',)
+2017-12-09 14:17:29,963 - __main__ - WARNING - start to test
+2017-12-09 14:17:29,968 - __main__ - WARNING - start to test
+2017-12-09 14:17:58,660 - __main__ - DEBUG - in put key 
+2017-12-09 14:17:58,660 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:17:58,841 - __main__ - DEBUG - find -> [('',), ('.jpg',), ('001',), ('002',), ('123',), ('1234',), ('123picture.jpg',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:17:58,841 - __main__ - DEBUG - find -> ('',)
+2017-12-09 14:18:47,581 - __main__ - DEBUG - in put key 
+2017-12-09 14:18:47,582 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:18:47,626 - __main__ - DEBUG - find -> [('',), ('.jpg',), ('001',), ('002',), ('123',), ('1234',), ('123picture.jpg',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:18:47,627 - __main__ - DEBUG - find -> ('',)
+2017-12-09 14:18:51,315 - __main__ - DEBUG - in put key 
+2017-12-09 14:18:51,316 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:18:51,324 - __main__ - DEBUG - find -> [('',), ('.jpg',), ('001',), ('002',), ('123',), ('1234',), ('123picture.jpg',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:18:51,324 - __main__ - DEBUG - find -> ('',)
+2017-12-09 14:18:55,715 - __main__ - DEBUG - in put key jpg
+2017-12-09 14:18:55,715 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:18:55,762 - __main__ - DEBUG - find -> [('.jpg',), ('123picture.jpg',)]
+2017-12-09 14:18:55,762 - __main__ - DEBUG - find -> ('.jpg',)
+2017-12-09 14:19:26,000 - __main__ - DEBUG - new filename is 1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx
+2017-12-09 14:19:26,110 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:19:26,111 - __main__ - INFO - file .pptx save to /1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx
+2017-12-09 14:19:26,112 - database - INFO - file .pptx address  /1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx
+2017-12-09 14:19:26,112 - database - DEBUG - session add
+2017-12-09 14:19:26,113 - database - DEBUG - id None
+2017-12-09 14:19:26,196 - database - DEBUG - id 11
+2017-12-09 14:19:26,197 - database - DEBUG - session  add refer file type
+2017-12-09 14:19:26,198 - database - DEBUG - session add  refer file type 1
+2017-12-09 14:19:26,235 - database - DEBUG - session add  refer address 
+2017-12-09 14:19:26,267 - database - DEBUG - address id 2 
+2017-12-09 14:19:34,452 - __main__ - DEBUG - in put key pdf
+2017-12-09 14:19:34,453 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:19:34,537 - __main__ - DEBUG - find -> []
+2017-12-09 14:19:46,412 - __main__ - DEBUG - in put key 
+2017-12-09 14:19:46,412 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:19:46,444 - __main__ - DEBUG - find -> [('',), ('.jpg',), ('.pptx',), ('001',), ('002',), ('123',), ('1234',), ('123picture.jpg',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:19:46,445 - __main__ - DEBUG - find -> ('',)
+2017-12-09 14:20:12,470 - __main__ - DEBUG - new filename is 1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf
+2017-12-09 14:20:12,471 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:20:12,471 - __main__ - INFO - file firmware.pdf save to /1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf
+2017-12-09 14:20:12,472 - database - INFO - file firmware.pdf address  /1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf
+2017-12-09 14:20:12,472 - database - DEBUG - session add
+2017-12-09 14:20:12,472 - database - DEBUG - id None
+2017-12-09 14:20:12,561 - database - DEBUG - id 12
+2017-12-09 14:20:12,561 - database - DEBUG - session  add refer file type
+2017-12-09 14:20:12,563 - database - DEBUG - session add  refer file type 1
+2017-12-09 14:20:12,565 - database - DEBUG - session add  refer address 
+2017-12-09 14:20:12,567 - database - DEBUG - address id 2 
+2017-12-09 14:20:16,629 - __main__ - DEBUG - in put key pdf
+2017-12-09 14:20:16,629 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:20:16,667 - __main__ - DEBUG - find -> [('firmware.pdf',)]
+2017-12-09 14:20:16,668 - __main__ - DEBUG - find -> ('firmware.pdf',)
+2017-12-09 14:20:21,966 - __main__ - DEBUG - in put key 
+2017-12-09 14:20:21,967 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 14:20:22,024 - __main__ - DEBUG - find -> [('',), ('.jpg',), ('.pptx',), ('001',), ('002',), ('123',), ('1234',), ('123picture.jpg',), ('firmware.pdf',), ('sky',), ('sky1',), ('sky2',)]
+2017-12-09 14:20:22,025 - __main__ - DEBUG - find -> ('',)
+2017-12-09 15:07:03,066 - __main__ - WARNING - start to test
+2017-12-09 15:07:03,072 - __main__ - WARNING - start to test
+2017-12-09 15:07:15,096 - __main__ - DEBUG - in put key 
+2017-12-09 15:07:15,097 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 15:07:15,306 - __main__ - DEBUG - find -> [('001', '/tmp/test'), ('002', '/tmp/'), ('123', '/home/derry/github/python/FileManage/store_file/1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('1234', '/1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('sky', '/tmp'), ('sky1', '/tmp'), ('sky2', '/tmp'), ('', '/1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png'), ('.jpg', '/1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('123picture.jpg', '/1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('.pptx', '/1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx'), ('firmware.pdf', '/1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf')]
+2017-12-09 15:07:15,306 - __main__ - DEBUG - find -> ('001', '/tmp/test')
+2017-12-09 15:07:54,713 - __main__ - WARNING - start to test
+2017-12-09 15:07:54,718 - __main__ - WARNING - start to test
+2017-12-09 15:08:01,062 - __main__ - DEBUG - in put key 
+2017-12-09 15:08:01,063 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 15:08:01,218 - __main__ - DEBUG - find -> [('001', '/tmp/test'), ('002', '/tmp/'), ('123', '/home/derry/github/python/FileManage/store_file/1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('1234', '/1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('sky', '/tmp'), ('sky1', '/tmp'), ('sky2', '/tmp'), ('', '/1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png'), ('.jpg', '/1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('123picture.jpg', '/1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('.pptx', '/1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx'), ('firmware.pdf', '/1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf')]
+2017-12-09 15:08:01,219 - __main__ - DEBUG - find -> ('001', '/tmp/test')
+2017-12-09 15:15:19,744 - __main__ - DEBUG - in put key 
+2017-12-09 15:15:19,745 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 15:15:19,821 - __main__ - DEBUG - find -> [('001', '/tmp/test'), ('002', '/tmp/'), ('123', '/home/derry/github/python/FileManage/store_file/1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('1234', '/1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('sky', '/tmp'), ('sky1', '/tmp'), ('sky2', '/tmp'), ('', '/1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png'), ('.jpg', '/1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('123picture.jpg', '/1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('.pptx', '/1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx'), ('firmware.pdf', '/1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf')]
+2017-12-09 15:15:19,822 - __main__ - DEBUG - find -> ('001', '/tmp/test')
+2017-12-09 15:47:34,565 - __main__ - WARNING - start to test
+2017-12-09 15:47:34,568 - __main__ - WARNING - start to test
+2017-12-09 15:48:09,062 - __main__ - DEBUG - new filename is 1512805689_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 15:51:05,317 - __main__ - WARNING - start to test
+2017-12-09 15:51:05,324 - __main__ - WARNING - start to test
+2017-12-09 15:51:28,437 - __main__ - DEBUG - new filename is 1512805888_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 16:02:03,954 - __main__ - DEBUG - new filename is 1512806523_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-09 16:02:39,833 - __main__ - DEBUG - new filename is 1512806559_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-09 16:02:39,834 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 16:02:39,955 - __main__ - INFO - file hex.ini save to /1512806559_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-09 16:02:39,955 - database - INFO - file hex.ini address  /1512806559_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini
+2017-12-09 16:02:39,958 - database - DEBUG - session add
+2017-12-09 16:02:39,960 - database - DEBUG - id None
+2017-12-09 16:02:40,195 - database - DEBUG - id 13
+2017-12-09 16:02:40,196 - database - DEBUG - session  add refer file type
+2017-12-09 16:02:40,199 - database - DEBUG - session add  refer file type 1
+2017-12-09 16:02:40,218 - database - DEBUG - session add  refer address 
+2017-12-09 16:02:40,231 - database - DEBUG - address id 2 
+2017-12-09 16:25:19,424 - __main__ - WARNING - start to test
+2017-12-09 16:25:19,429 - __main__ - WARNING - start to test
+2017-12-09 16:44:56,415 - __main__ - WARNING - start to test
+2017-12-09 16:44:56,424 - __main__ - WARNING - start to test
+2017-12-09 16:54:45,850 - __main__ - DEBUG - in put key 
+2017-12-09 16:54:45,851 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 16:54:46,596 - __main__ - DEBUG - find -> [('001', '/tmp/test'), ('002', '/tmp/'), ('123', '/home/derry/github/python/FileManage/store_file/1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('1234', '/1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('sky', '/tmp'), ('sky1', '/tmp'), ('sky2', '/tmp'), ('', '/1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png'), ('.jpg', '/1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('123picture.jpg', '/1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('.pptx', '/1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx'), ('firmware.pdf', '/1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf'), ('hex.ini', '/1512806559_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini')]
+2017-12-09 16:54:46,597 - __main__ - DEBUG - find -> ('001', '/tmp/test')
+2017-12-09 17:13:49,492 - __main__ - DEBUG - in put key 
+2017-12-09 17:13:49,493 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:13:49,629 - __main__ - DEBUG - find -> [('001', '/tmp/test'), ('002', '/tmp/'), ('123', '/home/derry/github/python/FileManage/store_file/1512735565_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('1234', '/1512735645_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('sky', '/tmp'), ('sky1', '/tmp'), ('sky2', '/tmp'), ('', '/1512798867_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.png'), ('.jpg', '/1512800071_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('123picture.jpg', '/1512800129_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg'), ('.pptx', '/1512800366_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pptx'), ('firmware.pdf', '/1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf'), ('hex.ini', '/1512806559_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.ini')]
+2017-12-09 17:13:49,629 - __main__ - DEBUG - find -> ('001', '/tmp/test')
+2017-12-09 17:13:58,838 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:14:46,854 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:16:33,828 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:18:00,912 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:18:01,074 - __main__ - DEBUG - file address --> /tmp
+2017-12-09 17:18:09,127 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:18:15,212 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:18:15,282 - __main__ - DEBUG - file address --> /1512800412_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.pdf
+2017-12-09 17:20:43,524 - __main__ - DEBUG - new filename is 1512811243_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 17:20:43,525 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:20:43,526 - __main__ - INFO - file AL95SCH.jpg save to /1512811243_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 17:20:43,526 - database - INFO - file AL95SCH.jpg address  /1512811243_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 17:20:43,526 - database - DEBUG - session add
+2017-12-09 17:20:43,528 - database - DEBUG - id None
+2017-12-09 17:20:43,575 - database - DEBUG - id 14
+2017-12-09 17:20:43,576 - database - DEBUG - session  add refer file type
+2017-12-09 17:20:43,577 - database - DEBUG - session add  refer file type 1
+2017-12-09 17:20:43,598 - database - DEBUG - session add  refer address 
+2017-12-09 17:20:43,603 - database - DEBUG - address id 2 
+2017-12-09 17:20:51,152 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:21:04,183 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:21:41,264 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:21:41,441 - __main__ - DEBUG - file address --> /1512811243_27ae3bdc-3434-3f26-b54c-f35be2fbc7e1.jpg
+2017-12-09 17:21:48,479 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:22:47,934 - __main__ - WARNING - start to test
+2017-12-09 17:22:47,940 - __main__ - WARNING - start to test
+2017-12-09 17:29:03,061 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:29:32,909 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:29:37,876 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:29:49,700 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:29:56,709 - database - DEBUG - connect to database mysql+mysqldb://root:sky@localhost:3306/test
+2017-12-09 17:32:05,300 - __main__ - WARNING - start to test
+2017-12-09 17:32:05,304 - __main__ - WARNING - start to test

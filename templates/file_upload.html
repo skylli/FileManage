@@ -2,16 +2,26 @@
    <body>
       <form action = "/file_uploading" method = "POST" 
          enctype = "multipart/form-data">
+         输入文件名：
          <input type="text" value="" name="input_fname">	
          <input type = "file" name = "file" />
-         <input type = "submit"/>
+         <input type = "submit" value="上传" class="btn btn-primary btn-large btn-block" />
       </form>
+      <form action = "/file_download" method = "POST" enctype = "multipart/form-data">
+        <input type="text" value="" name="input_download_file">
+        <input type = "submit" value = "下载"/>
+    </form>
 
-      <form action = "/file_download" method = "POST" 
-         enctype = "multipart/form-data">
-         <input type = "file" name = "file" />
-         <input type = "submit"/>
-      </form>
+   <form action="/file_find" method="POST">
+        <input type="text" value="" name="input_search_key">	
+        <input type="submit" value="查询" class="btn btn-primary btn-large btn-block" >
+    </form>
+    <ul>{% if output_filelist %}
+            {% for fname in output_filelist %}
+                <li><a href= {{ fname[1] }} > {{ fname[0] }} </a> 
+            {% endfor %}
+        {% endif %}
+    </ul>
    </body>
 </html>
 

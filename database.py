@@ -158,7 +158,7 @@ class File_db(object):
         ''' find list by key world
         '''
         keys='%'+key+'%'
-        return self.session.query(File_map.idex).filter(File_map.idex.like(keys)).all()
+        return self.session.query(File_map.idex,File_map.address).filter(File_map.idex.like(keys)).all()
     def file_address_get_by_idex(self,idex=None):
         '''get file location by idex
         '''
@@ -171,7 +171,7 @@ if __name__ == '__main__':
     log.warning('start to test')
     fdb = File_db()
     log.warning('file add')
-    fdb.file_add(file_idex = 'micheal',fname='test',filetype = 'pdf')
+    fdb.file_add(file_idex = 'sky2',address = '/tmp',fname='test',filetype = 'pdf')
     find = fdb.file_idex_search_key(key = 'sky')
     log.debug("find -> %s",find)
     log.debug('find --> %s',find[0][0])

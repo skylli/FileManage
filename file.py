@@ -3,7 +3,7 @@
 import os,json,logging,logger,uuid,time
 
 from logger import log_conf
-from flask import Flask, render_template, request, flash, redirect, render_template, session, abort,url_for,send_file
+from flask import Flask, render_template, request, flash, redirect, render_template, session, abort,url_for,send_file,send_from_directory
 from werkzeug import secure_filename
 
 # import local file
@@ -20,6 +20,7 @@ log = log_conf(app.logger,logging.DEBUG)
 uuid_source = 'file.evalogik.com'
 UPLOAD_FOLDER = os.getcwd()+'/store_file/'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+PATH_RELATIVE = './store_file/'
 #store_path = UPLOAD_FOLDER
 
 @app.route('/')
@@ -59,25 +60,27 @@ def file_uploading():
             file.save(os.path.join(app.config["UPLOAD_FOLDER"], fpath))
             #  记录到数据库,记录相对路径
             path = '/' + fpath
+            # 是否需要加后缀
+            finputname += f_end
             fdb = File_db()
             log.info('file %s save to %s',finputname,path)
             fdb.file_add(file_idex = str(finputname),address= path,fname='test',filetype = 'pdf')
             return redirect(url_for('file_upload'))
 
 @app.route('/file_find',methods = ['GET', 'POST'])
-def file_find(self, parameter_list):
-    pass
+def file_find():
+    key = request.form['input_search_key']
+    find =  File_db().file_idex_search_key(key)
+    return render_template('file_upload.html',output_filelist = find)
 
 @app.route('/file_download',methods = ['GET', 'POST'])
-def file_download():
-    try:
-        send_file('/home/derry/github/python/FileManage/store_file/Flask_WebPythonWeb.pdf',as_attachment=True)
-    except IOError as e:
-        logging.exception(e)
-        print "can't open file!"
-    return redirect(url_for('file_upload'))
+def uploaded_file():
+    filename = request.form['input_download_file']
+    fname = File_db().file_address_get_by_idex(idex = filename)
+    log.debug("file address --> %s",fname[0])
+    return send_file(app.config["UPLOAD_FOLDER"] + str(fname[0]))
 
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
-    app.run(debug=True,host='0.0.0.0', port=4000)
+    app.run(debug=True,host='0.0.0.0', port=9527)
     log.warning('start to test')
